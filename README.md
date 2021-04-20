@@ -5,6 +5,8 @@ Roll No: 1911038
 
 Batch: A3
 
+Class: SY/ Course: Computer Engineering/ Faculty Name: Prof. Vaibhav Vasani/ College: K J Somaiya College Of Engineering
+
 Topic: BASIC NOSQL INJECTION ANALYSIS AND DETECTION ON MONGODB
 
 Please find a pdf file explaining all the steps required for carrying out the implementation.
