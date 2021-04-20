@@ -8,3 +8,5 @@ There isn't any code to be pushed. I have used various tools for carrying out th
 The tools used were:
 1) VMWare Workstation Pro
 2) Web for pentester 2
+
+The detailed steps are mentioned in the file named A3_1911038_RDBMS_IA_2.pdf
